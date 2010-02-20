@@ -3,10 +3,12 @@ ckMediaEmbed plugin for CKEditor
 
 This [CKEditor](http://ckeditor.com/) plugin will add a supplementary button in the editor toolbar, opening a dialog popup where you'll be able to paste in any snippet of HTML code, for exemple Youtube video embed code.
 
+![ckMediaEmbed plugin in action](http://files.droplr.com/files/6619162/rtLeS.ckMediaEmbed.png)
+
 Installation
 ------------
 
-Get the source, uncompress it in the `plugins` folder of your CKEditor installation.
+Get the source archive and uncompress it into the `plugins` folder of your CKEditor installation.
 
 Usage
 -----
